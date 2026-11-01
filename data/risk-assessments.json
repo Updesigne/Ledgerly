@@ -1,0 +1,72 @@
+[
+  {
+    "invoiceId": "1",
+    "approved": true,
+    "riskTier": 1,
+    "creditScore": 841,
+    "txHash": null,
+    "verifier": "0x555875d8B8a11Ed1c9b8312A2528865Bf990F140",
+    "engine": "chainlink-cre-sdk-http-workflow",
+    "createdAt": "2026-10-31T22:46:38.100Z"
+  },
+  {
+    "invoiceId": "1",
+    "approved": true,
+    "riskTier": 1,
+    "creditScore": 841,
+    "txHash": null,
+    "verifier": "0x555875d8B8a11Ed1c9b8312A2528865Bf990F140",
+    "engine": "chainlink-cre-sdk-http-workflow",
+    "createdAt": "2026-10-31T22:47:18.890Z"
+  },
+  {
+    "invoiceId": "1",
+    "approved": true,
+    "riskTier": 1,
+    "creditScore": 841,
+    "txHash": null,
+    "verifier": "0x555875d8B8a11Ed1c9b8312A2528865Bf990F140",
+    "engine": "chainlink-cre-sdk-http-workflow",
+    "createdAt": "2026-10-31T22:48:05.063Z"
+  },
+  {
+    "invoiceId": "1",
+    "approved": true,
+    "riskTier": 1,
+    "creditScore": 841,
+    "txHash": null,
+    "verifier": "0x555875d8B8a11Ed1c9b8312A2528865Bf990F140",
+    "engine": "chainlink-cre-sdk-http-workflow",
+    "createdAt": "2026-10-31T22:48:39.531Z"
+  },
+  {
+    "invoiceId": "2",
+    "approved": true,
+    "riskTier": 2,
+    "creditScore": 742,
+    "txHash": "0x9469184f62a10d9bf7432d80f987a2e146739d567d3e97fdf93acd8cc2200c9a",
+    "verifier": "0x555875d8B8a11Ed1c9b8312A2528865Bf990F140",
+    "engine": "chainlink-cre-sdk-http-workflow",
+    "createdAt": "2026-10-31T22:49:39.228Z"
+  },
+  {
+    "invoiceId": "3",
+    "approved": true,
+    "riskTier": 1,
+    "creditScore": 822,
+    "txHash": "0xc8d27fb56f1ae4eee01ba7b009ca7230045f766e6d3a19eacdf49fd5bdd27688",
+    "verifier": "0x555875d8B8a11Ed1c9b8312A2528865Bf990F140",
+    "engine": "chainlink-cre-sdk-http-workflow",
+    "createdAt": "2026-10-31T22:52:10.189Z"
+  },
+  {
+    "invoiceId": "4",
+    "approved": true,
+    "riskTier": 2,
+    "creditScore": 782,
+    "txHash": "0xf6867eb628af245562d2dc067af330c9ab5098516f7fa009144772e2075589f1",
+    "verifier": "0x555875d8B8a11Ed1c9b8312A2528865Bf990F140",
+    "engine": "chainlink-cre-sdk-http-workflow",
+    "createdAt": "2026-10-31T23:10:10.476Z"
+  }
+]

@@ -1,0 +1,5 @@
+{
+  "invoiceRegistryAddress": "0x208dc6167694eFA6dA8e7f22791a769b0e594107",
+  "backendApiUrl": "http://localhost:4000",
+  "schedule": "0 * * * *"
+}

@@ -1,0 +1,37 @@
+{
+  "name": "Ledgerly",
+  "version": "0.1.0",
+  "private": true,
+  "workspaces": [
+    "backend"
+  ],
+  "scripts": {
+    "dev:backend": "npm --workspace backend run dev",
+    "build:backend": "npm --workspace backend run build",
+    "test:backend": "npm --workspace backend test",
+    "typecheck:backend": "npm --workspace backend run typecheck",
+    "dev:frontend": "npm --prefix frontend run dev",
+    "build:frontend": "npm --prefix frontend run build",
+    "typecheck:frontend": "npm --prefix frontend run typecheck",
+    "dev": "npm run dev:backend",
+    "test:contracts": "hardhat test",
+    "test:integration": "hardhat test test/integration",
+    "test:all": "npm run test:contracts && npm run test:integration && npm run test:backend",
+    "node": "hardhat node",
+    "compile": "hardhat compile",
+    "check:local": "hardhat run scripts/check-env.ts --network localhost",
+    "check:arbitrum-sepolia": "hardhat run scripts/check-env.ts --network arbitrumSepolia",
+    "deploy:local": "hardhat run scripts/deploy.ts --network localhost",
+    "deploy:arbitrum-sepolia": "hardhat run scripts/deploy.ts --network arbitrumSepolia",
+    "demo:local": "hardhat run scripts/demo.ts --network localhost",
+    "demo:arbitrum-sepolia": "hardhat run scripts/demo.ts --network arbitrumSepolia"
+  },
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^5.0.0",
+    "@types/node": "^26.6.5",
+    "dotenv": "^16.4.7",
+    "hardhat": "^2.22.17",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.7.2"
+  }
+}

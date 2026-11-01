@@ -1,0 +1,62 @@
+[
+  {
+    "invoiceId": "2",
+    "totalReceived": "25000000000",
+    "totalPrincipal": "23587500000",
+    "fullyPaid": true,
+    "distributions": [
+      {
+        "investor": "0xCDeD107c076BE8b2F0B3F59793F539cE29A7B438",
+        "principal": "13478571429",
+        "proceeds": "14285714286"
+      },
+      {
+        "investor": "0x767a8eB1b9485C6325889C2D629EEE30c3b7D925",
+        "principal": "10108928571",
+        "proceeds": "10714285714"
+      }
+    ],
+    "txHash": "0x95db2888d4c183c4f9f6021b5b702aa9ebbe4d2301da4d202639fcc112d0a83b",
+    "createdAt": "2026-10-31T23:00:55.715Z"
+  },
+  {
+    "invoiceId": "3",
+    "totalReceived": "12000000000",
+    "totalPrincipal": "11316000000",
+    "fullyPaid": true,
+    "distributions": [
+      {
+        "investor": "0xCDeD107c076BE8b2F0B3F59793F539cE29A7B438",
+        "principal": "11316000000",
+        "proceeds": "12000000000"
+      }
+    ],
+    "txHash": "0x5f564fe8b777ef32ac3828d3f3c97b732fc51db2a4640ffbf110912f79fc1e42",
+    "createdAt": "2026-10-31T23:01:09.981Z"
+  },
+  {
+    "invoiceId": "4",
+    "totalReceived": "21000000000",
+    "totalPrincipal": "19796700000",
+    "fullyPaid": true,
+    "distributions": [
+      {
+        "investor": "0xCDeD107c076BE8b2F0B3F59793F539cE29A7B438",
+        "principal": "6852703847",
+        "proceeds": "7269230770"
+      },
+      {
+        "investor": "0x767a8eB1b9485C6325889C2D629EEE30c3b7D925",
+        "principal": "6852703846",
+        "proceeds": "7269230769"
+      },
+      {
+        "investor": "0x555875d8B8a11Ed1c9b8312A2528865Bf990F140",
+        "principal": "6091292307",
+        "proceeds": "6461538461"
+      }
+    ],
+    "txHash": "0x22c69dcc5f3cf8b862144783465ddd549c486633e7cfbd45d5e305bf11fe2749",
+    "createdAt": "2026-10-31T23:12:24.359Z"
+  }
+]

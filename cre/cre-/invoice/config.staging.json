@@ -1,0 +1,6 @@
+{
+  "invoiceRegistryAddress": "0x48d944032a6b92F4060Bc61E672B7804B3320bE3",
+  "backendApiUrl": "http://localhost:4000",
+  "schedule": "*/30 * * * * *",
+  "chainSelectorName": "ethereum-testnet-sepolia-arbitrum-1"
+}

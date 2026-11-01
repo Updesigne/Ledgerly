@@ -1,0 +1,53 @@
+[
+  {
+    "invoiceId": "2",
+    "allocations": [
+      {
+        "investor": "0xCDeD107c076BE8b2F0B3F59793F539cE29A7B438",
+        "amount": "13478571429"
+      },
+      {
+        "investor": "0x767a8eB1b9485C6325889C2D629EEE30c3b7D925",
+        "amount": "10108928571"
+      }
+    ],
+    "total": "23587500000",
+    "status": "confirmed",
+    "createdAt": "2026-10-31T22:50:33.379Z",
+    "txHash": "0xbf245fea7f35af96704c5ef950dbbbd1db82ab2df4026808a87bd4dad30743a0"
+  },
+  {
+    "invoiceId": "3",
+    "allocations": [
+      {
+        "investor": "0xCDeD107c076BE8b2F0B3F59793F539cE29A7B438",
+        "amount": "11316000000"
+      }
+    ],
+    "total": "11316000000",
+    "status": "confirmed",
+    "createdAt": "2026-10-31T23:00:25.936Z",
+    "txHash": "0x6a646f15435a9ac2a90f0c0e074cab4db2cc215517f583bcc585a07e15c8282d"
+  },
+  {
+    "invoiceId": "4",
+    "allocations": [
+      {
+        "investor": "0xCDeD107c076BE8b2F0B3F59793F539cE29A7B438",
+        "amount": "6852703847"
+      },
+      {
+        "investor": "0x767a8eB1b9485C6325889C2D629EEE30c3b7D925",
+        "amount": "6852703846"
+      },
+      {
+        "investor": "0x555875d8B8a11Ed1c9b8312A2528865Bf990F140",
+        "amount": "6091292307"
+      }
+    ],
+    "total": "19796700000",
+    "status": "confirmed",
+    "createdAt": "2026-10-31T23:11:34.763Z",
+    "txHash": "0x7ea92ccf21042ebf80aeb4ce94fc08503c7e913fef18665d442cbe0a595f5289"
+  }
+]
